@@ -1,1 +1,4 @@
-
+johen_name = 10
+kahen_name = 20
+takasa_name = 5
+print(str((johen_name + kahen_name) * takasa_name / 2) + "cm²")
